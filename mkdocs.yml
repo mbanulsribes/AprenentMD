@@ -1,0 +1,16 @@
+site_name: Web estàtica amb mkdocs
+
+
+nav:
+    - Home: index.md
+    - Tema 1:
+      - Apartat 1: tema1/apartat1.md
+      - Apartat 2: tema1/apartat2.md
+    - About: about.md
+#nav:
+#    - Home: index.md
+ #   - About: about.md
+
+#theme: readthedocs 
+extra_css:
+  - css/extra.css
